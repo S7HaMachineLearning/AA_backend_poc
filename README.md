@@ -1,2 +1,2 @@
-# AA_backend_poc
-A small Python API
+# Run the server
+`python -m uvicorn main:app`
